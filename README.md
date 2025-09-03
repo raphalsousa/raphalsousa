@@ -1,9 +1,10 @@
-## olá´meu nome e Raphaelle
+## olá meu nome e Raphaelle
 
 <!--
 **raphalsousa/raphalsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+Hare are some ideas to get started:
 Olá, eu sou a Rphaelle!  
 
 -  🎓 Estudante do **Curso Técnico em Informática – Senac Tatuapé**  
