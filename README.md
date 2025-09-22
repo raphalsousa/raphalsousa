@@ -1,5 +1,5 @@
 
-<img width="450" height="112" alt="image" src="https://github.com/user-attachments/assets/44bdac5f-2a94-4180-92e0-6e45fd923d71" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a8eae8b-8e96-4fbf-b094-e1bceae0b905" />
 
 
 # Olá, eu sou a Raphaelle 👩‍💻
