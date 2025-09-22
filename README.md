@@ -1,5 +1,6 @@
 
-![banner](https://github.com/user-attachments/assets/dfbb7d10-7593-440b-8642-e280fc51338e)
+<img width="450" height="112" alt="image" src="https://github.com/user-attachments/assets/44bdac5f-2a94-4180-92e0-6e45fd923d71" />
+
 
 # Olá, eu sou a Raphaelle 👩‍💻
 
